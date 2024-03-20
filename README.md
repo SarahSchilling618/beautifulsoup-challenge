@@ -1,2 +1,4 @@
 # beautifulsoup-challenge
 Module 11 Challenge
+
+This repository contains two Jupyter Notebook files, both of which use BeautifulSoup for scraping information from a website. The first notebook analyzes a website that contains news on the planet Mars, then scraps the text off the website and formats the article titles and previews into an easily readble dictionary. The second notebook scraps data from a website that contains a dataframe with information about the weather on mars over time, then using the information from the scraped dataframe, answers analysis questions about temperature and pressure among others. I used information that I learned while in class, as well as the XPert Learning Assistant provided on Bootcamp Spot to help complete this assignment. I also worked with fellow classmate Kiet Hoang on several parts of this assignment.
